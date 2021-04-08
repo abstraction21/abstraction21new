@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Headless WordPress Framework
 
 ## Introduction
@@ -113,3 +114,19 @@ streamline your development process.
 
 - npm packages in this repository are MIT licensed
 - WordPress plugins in this repository are GPLv2+ licensed
+=======
+# Headless WordPress Getting Started Example
+
+## Setup
+
+See the [setup steps](https://github.com/wpengine/headless-framework#quick-start).
+
+## Run it
+
+```bash
+npm install
+npm run dev
+```
+
+[http://localhost:3000]()
+>>>>>>> initial
